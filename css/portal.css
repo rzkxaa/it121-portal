@@ -4,14 +4,14 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #000; 
-    background: #ff0;
+    color: rgb(136, 137, 231); 
+    background: rgb(153, 159, 238);
 }
 
 h1 {
